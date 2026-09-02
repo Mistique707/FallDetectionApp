@@ -108,6 +108,3 @@ Software
 
     Alerts: If not canceled, the app will proceed to send the SMS alerts to the saved contacts.
 
-📄 License
-
-This project is licensed under the MIT License. See the LICENSE.md file for details.
